@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parstagram</string>
+    <string name="action_camera">action_camera</string>
+    <string name="action_post">action_post</string>
+</resources>
